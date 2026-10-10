@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Moved to [t-rust-db/tools](https://github.com/t-rust-db/tools/tree/main/column-rs).** This repository is archived.
+> column-rs now lives in the `tools` Cargo workspace, with its full history; open issues were transferred there
+> (t-rust-db/tools#1). Install with `cargo install --git https://github.com/t-rust-db/tools column-rs`.
+
 # column-rs
 
 A verified columnar analytics engine over Parquet — zero-unsafe-code-
